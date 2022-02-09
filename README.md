@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Hello, I'm KTW🤓
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=웅이%20&fontSize=90&rotate=5&fontAlignY=30&fontAlign=85)
 <br></br>
 ---
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=platic&logo=MySQL&logoColor=white)
 
 </div>
+-->
