@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=웅이%20&fontSize=90&rotate=5&fontAlignY=30&fontAlign=85)
 <br></br>
+
 ---
 
 <!--
@@ -28,6 +29,10 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=platic&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=platic&logo=Django&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=platic&logo=MySQL&logoColor=white)
-
-</div>
 -->
+</div>
+
+
+SSAFY 7기
+
+삼성 SW 역량 테스트 B등급 보유
